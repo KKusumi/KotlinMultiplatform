@@ -1,0 +1,4 @@
+include ':app'
+include ':SharedCode'
+rootProject.name='my-mpp-ios-android'
+include ':protobuf_model'
